@@ -1,0 +1,17 @@
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/ShopLambda.API
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/appsettings.json
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/aws-lambda-tools-defaults.json
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/ShopLambda.API.deps.json
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/ShopLambda.API.runtimeconfig.json
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/ShopLambda.API.pdb
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/Amazon.Lambda.APIGatewayEvents.dll
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/Amazon.Lambda.AspNetCoreServer.dll
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/Amazon.Lambda.AspNetCoreServer.Hosting.dll
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/Amazon.Lambda.Logging.AspNetCore.dll
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/Amazon.Lambda.RuntimeSupport.dll
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/AWSSDK.Core.dll
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/AWSSDK.DynamoDBv2.dll
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/src/ShopLambda.API/bin/Release/net8.0/publish/ShopLambda.API.dll

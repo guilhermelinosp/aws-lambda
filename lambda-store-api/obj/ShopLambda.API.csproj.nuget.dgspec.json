@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/ShopLambda.API.csproj": {}
+  },
+  "projects": {
+    "/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/ShopLambda.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/ShopLambda.API.csproj",
+        "projectName": "ShopLambda.API",
+        "projectPath": "/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/ShopLambda.API.csproj",
+        "packagesPath": "/home/guilhermelinosp/.nuget/packages/",
+        "outputPath": "/home/guilhermelinosp/repositories/dotnet/ShopLambda/ShopLambda.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/guilhermelinosp/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.303.25, )"
+            },
+            "AWSSDK.SQS": {
+              "target": "Package",
+              "version": "[3.7.301.22, )"
+            },
+            "Amazon.Lambda.AspNetCoreServer.Hosting": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.linux-x64",
+              "version": "[8.0.6, 8.0.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

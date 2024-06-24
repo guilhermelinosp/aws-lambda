@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lambda-store-api", "lambda-store-api\lambda-store-api.csproj", "{89B5BE7E-91ED-4F85-AA3F-62D43FCC0781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lambda-subscribe-sale", "lambda-subscribe-sale\lambda-subscribe-sale.csproj", "{BA0DD0A7-12D4-4952-88AF-95143A471ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B5BE7E-91ED-4F85-AA3F-62D43FCC0781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B5BE7E-91ED-4F85-AA3F-62D43FCC0781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B5BE7E-91ED-4F85-AA3F-62D43FCC0781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B5BE7E-91ED-4F85-AA3F-62D43FCC0781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0DD0A7-12D4-4952-88AF-95143A471ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0DD0A7-12D4-4952-88AF-95143A471ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0DD0A7-12D4-4952-88AF-95143A471ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0DD0A7-12D4-4952-88AF-95143A471ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

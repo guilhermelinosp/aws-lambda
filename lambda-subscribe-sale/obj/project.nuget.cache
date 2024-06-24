@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdECEN6CdYjpbzkAl6yzFUh0ms2puMashY+8AwZ/eWD93OsGVMUGrYerjk1ffB7laBCA+bTatIgZMOJEYUK+dA==",
+  "success": true,
+  "projectFilePath": "/home/guilhermelinosp/repositories/dotnet/ShopLambda/lambda-subscribe-sale/lambda-subscribe-sale.csproj",
+  "expectedPackageFiles": [
+    "/home/guilhermelinosp/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/home/guilhermelinosp/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/home/guilhermelinosp/.nuget/packages/amazon.lambda.sqsevents/2.2.0/amazon.lambda.sqsevents.2.2.0.nupkg.sha512",
+    "/home/guilhermelinosp/.nuget/packages/microsoft.netcore.app.crossgen2.linux-x64/8.0.6/microsoft.netcore.app.crossgen2.linux-x64.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

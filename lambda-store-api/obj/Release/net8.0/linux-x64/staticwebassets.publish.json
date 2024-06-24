@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "W7PI9yuQtBTwgFB5K4BYGAC4+Znu/yAr+sUYhoSZ1LU=",
+  "Source": "ShopLambda.API",
+  "BasePath": "_content/ShopLambda.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

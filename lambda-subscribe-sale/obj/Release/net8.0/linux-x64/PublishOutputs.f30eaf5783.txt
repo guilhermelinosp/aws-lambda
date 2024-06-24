@@ -1,0 +1,7 @@
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/SubRequestsLambda/src/SubRequestsLambda/bin/Release/net8.0/publish/SubRequestsLambda.deps.json
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/SubRequestsLambda/src/SubRequestsLambda/bin/Release/net8.0/publish/SubRequestsLambda.runtimeconfig.json
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/SubRequestsLambda/src/SubRequestsLambda/bin/Release/net8.0/publish/SubRequestsLambda.pdb
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/SubRequestsLambda/src/SubRequestsLambda/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/SubRequestsLambda/src/SubRequestsLambda/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/SubRequestsLambda/src/SubRequestsLambda/bin/Release/net8.0/publish/Amazon.Lambda.SQSEvents.dll
+/home/guilhermelinosp/repositories/dotnet/ShopLambda/SubRequestsLambda/src/SubRequestsLambda/bin/Release/net8.0/publish/SubRequestsLambda.dll
